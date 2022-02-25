@@ -1,5 +1,5 @@
 # Ukrainian Creators And Coders
-## Work In Progress: while we fill this lists together, have a look at [this](https://github.com/chernivtsijs/made-in-ukraine) and [this](https://github.com/IonicaBizau/made-in-ukraine) awesome repositories of made-in-Ukraine open source software?
+## Work In Progress: while we fill these lists together, have a look at [this](https://github.com/chernivtsijs/made-in-ukraine) and [this](https://github.com/IonicaBizau/made-in-ukraine) awesome repositories of made-in-Ukraine open source software?
 A repository to collect ukrainian creators (musicians, youtubers, bloggers, content creators of any kind) and developers (and their open source projects) so people can show support and donate to the very persons involved without intermediaries (stream their songs, donate to a project, buy their art, etc.)
 
 For now we've made two google spreadsheets (one for creators and one for devs/oss where anyone can comment but only we can edit, if you want to help out or suggest a better workflow reach out to us on [stopitvladimir@gmail.com](mailto:stopitvladimir@gmail.com).
