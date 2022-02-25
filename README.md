@@ -1,4 +1,4 @@
-# Ukrainian Creators And Coders
+# :ukraine: Ukrainian Creators And Coders :ukraine:
 ## Work In Progress: while we fill these lists together, have a look at [this](https://github.com/chernivtsijs/made-in-ukraine) and [this](https://github.com/IonicaBizau/made-in-ukraine) awesome repositories of made-in-Ukraine open source software?
 A repository to collect ukrainian creators (musicians, youtubers, bloggers, content creators of any kind) and developers (and their open source projects) so people can show support and donate to the very persons involved without intermediaries (stream their songs, donate to a project, buy their art, etc.)
 
@@ -13,3 +13,4 @@ If a cell is already commented do not overwrite it, please.
 
 ## Developers/Projects: https://docs.google.com/spreadsheets/d/1mmG25XY0vd8DIGvg6pASx3E-MoOGscU2yCMealPq4RM/edit?usp=sharing
 
+![An image of Kyiv at sunset](https://online.seterra.com/images/system/kyiv.jpg)
