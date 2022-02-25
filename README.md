@@ -13,4 +13,4 @@ If a cell is already commented do not overwrite it, please.
 
 ## 💻 Developers/Projects: https://docs.google.com/spreadsheets/d/1mmG25XY0vd8DIGvg6pASx3E-MoOGscU2yCMealPq4RM/edit?usp=sharing
 
-![An image of Kyiv at sunset](https://online.seterra.com/images/system/kyiv.jpg)
+![An image of Kyiv](https://digital.ihg.com/is/image/ihg/intercontinental-kiev-5927192439-2x1?fit=fit,1&wid=2400&hei=1200&qlt=85,0&resMode=sharp2&op_usm=1.75,0.9,2,0)
