@@ -1,8 +1,10 @@
 # :ukraine: Ukrainian Creators And Coders :ukraine:
-## 🏁 Work In Progress: while we fill these lists together, have a look at [this](https://github.com/chernivtsijs/made-in-ukraine) and [this](https://github.com/IonicaBizau/made-in-ukraine) awesome repositories of made-in-Ukraine open source software
-A repository to collect ukrainian creators (musicians, youtubers, bloggers, content creators of any kind) and developers (and their open source projects) so people can show support and donate to the very persons involved without intermediaries (stream their songs, donate to a project, buy their art, etc.)
+## 🚩 Update: Click <b>[here](https://support-ukrainian-creators-and-coders.github.io/random-supporter/)</b> to support a new, random dev with each click. We scraped [chernivtsijs/made-in-ukraine](https://github.com/chernivtsijs/made-in-ukraine) and half (and growing) of [IonicaBizau/made-in-ukraine](https://github.com/IonicaBizau/made-in-ukraine). We thank this awesome repositories of made-in-Ukraine open source software.
 
-For now we've made two google spreadsheets (one for creators and one for devs/oss) where anyone can edit, if you want to help out or suggest a better workflow reach out to us on [stopitvladimir@gmail.com](mailto:stopitvladimir@gmail.com).
+A repository to collect ukrainian creators (musicians, youtubers, bloggers, content creators of any kind) and developers (and their open source projects) so people can show support and donate to the very persons involved without intermediaries (stream their songs, donate to a project, buy their art), star their projects, make job offers, arrange refuge. There are many free options to support Ukraine that cost only an open browser tab or a few clicks.
+
+For now we've made two google spreadsheets (one for creators and one for devs/oss) where anyone can edit and a [website](https://support-ukrainian-creators-and-coders.github.io/random-supporter/) that attempts to make supporting easier, engaging and randomized. 
+If you want to help out or suggest a better workflow reach out to us on [stopitvladimir@gmail.com](mailto:stopitvladimir@gmail.com).
 
 To comment on a cell of the spreadsheets, right click on the cell and select "Comment".
 Please include relevant links to the creators/dev githubs, bandcamps, spotifys, instagram, etc. so they can be verified as actual people.
