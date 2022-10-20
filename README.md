@@ -1,4 +1,4 @@
-# :ukraine: Ukrainian Creators And Coders :ukraine:
+# :ukraine: Ukrainian Developers :ukraine:
 ## 🚩 Update: Click <b>[here](https://bit.ly/supportukrainedevs)</b> to support a new, random dev with each click. We collected almost 200 (and counting) developer profiles.  We scraped all of [chernivtsijs/made-in-ukraine](https://github.com/chernivtsijs/made-in-ukraine) and of [IonicaBizau/made-in-ukraine](https://github.com/IonicaBizau/made-in-ukraine) and put them in spreadsheets, so this data is now navigable and fungible. We thank this awesome repositories of made-in-Ukraine open source software.
 
 A repository to collect ukrainian developers and creators (and their art and projects) so people can show support and donate to the very persons involved without intermediaries (stream their songs, donate to a project, buy their art), star their projects, make job offers, arrange refuge. There are many free options to support Ukraine that cost only an open browser tab or a few clicks.
